@@ -1,0 +1,16 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat Application",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^3.0.0-rc0",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mayank Rustagi",
+  "license": "ISC"
+}
